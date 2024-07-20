@@ -56,6 +56,8 @@ Email: [aruvib.21auto@kongu.edu](mailto:aruvib.21auto@kongu.edu)
 
 LinkedIn: https://www.linkedin.com/in/aruvib
 
+Website: https://aruvi-b.github.io/me/
+
 Instagram: https://www.instagram.com/__aruvi__4/
 
 GitHub: https://github.com/Aruvi-B
