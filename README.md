@@ -15,34 +15,34 @@ Interests: Innovative solutions for real-time problems, vehicle performance, and
 ### Projects
 
 
-[BTMS](https://github.com/Aruvi-B/Battery-Thermal-Management-System/)
+BTMS -> [Click here](https://github.com/Aruvi-B/Battery-Thermal-Management-System/)
 
 * A system designed to optimize battery performance and lifespan by monitoring and managing thermal conditions.
 
-[Cranky](https://github.com/Aruvi-B/cranky)
+Cranky -> [Click here](https://github.com/Aruvi-B/cranky)
 
 * CRANKY, a innovative bicycle design that prioritizes sustainability and urban mobility!
 
-[Careway](https://github.com/Aruvi-B/Careway)
+CareWay -> [Click here](https://github.com/Aruvi-B/Careway)
 
 * Careway: A healthcare management system built using MIT App Inventor.
 
 ### CADD Designs
 
-[CADD Design](https://github.com/Aruvi-B/Catia-Design)
+CADD Designs -> [Click here](https://github.com/Aruvi-B/Catia-Design)
 
 * A collection of CADD designs showcasing my skills in 3D modeling and design.
 
 ### Machine Learning
 
-[Machine Learning](https://github.com/Aruvi-B/Machine-Learning/)
+Machine Learning -> [Click here](https://github.com/Aruvi-B/Machine-Learning/)
 
 * A machine learning projects, including regression, classification, clustering and various algorithms.
 
 **Technical Skills**
 
 * Programming languages: Python, HTML, CSS.
-* Tools:
+* Tools & Tech:
   * SolidWorkds 2022
   * AutoCAD 2022
   * Catia v5
