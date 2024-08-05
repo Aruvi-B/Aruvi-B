@@ -39,7 +39,7 @@ Machine Learning -> [Click here](https://github.com/Aruvi-B/Machine-Learning/)
 
 * A machine learning projects, including regression, classification, clustering and various algorithms.
 
-**Technical Skills**
+### Technical Skills
 
 * Programming languages: Python, HTML, CSS.
 * Tools & Tech:
