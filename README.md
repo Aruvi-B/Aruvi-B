@@ -52,7 +52,7 @@ Machine Learning -> [Click here](https://github.com/Aruvi-B/Machine-Learning/)
 **Get in Touch**
 Feel free to reach out to me:
 
-Email: [aruvib.21auto@kongu.edu](mailto:aruvib.21auto@kongu.edu)
+Email: [aruvibalamurugan@gmail.com](mailto:aruvibalamurugan@gmail.com)
 
 LinkedIn: https://www.linkedin.com/in/aruvib
 
