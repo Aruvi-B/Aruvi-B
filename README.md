@@ -77,13 +77,6 @@ Upskilling industry teams on SDV use cases and AI-powered engineering approaches
 ![CAN](https://img.shields.io/badge/CAN%20%2F%20LIN-FF6600?style=flat-square)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 
-**Cloud & DevOps**
-
-![AWS IoT](https://img.shields.io/badge/AWS%20IoT%20Core-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Greengrass](https://img.shields.io/badge/Greengrass-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Tools & Simulation**
 
