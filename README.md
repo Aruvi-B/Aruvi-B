@@ -1,160 +1,222 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,100:00D4FF&height=200&section=header&text=Aruvi%20B&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Research%20Engineer%20%E2%80%94%20SDV%20Center%20of%20Excellence&descAlignY=58&descColor=a0d8ef" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0F1E,50:0047AB,100:00D4FF&text=Aruvi%20B&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Research%20Engineer%20•%20Software%20Defined%20Vehicles%20•%20Embedded%20AI&descAlignY=58"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Research+Engineer+%7C+Software+Defined+Vehicles;Embedded+Systems+%7C+AUTOSAR+%7C+Automotive+AI;Building+AI-powered+Engineering+Tools;Open+Source+Contributor+%7C+Technology+Explorer" />
 
-<div align="center">
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aruvib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruvib)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aruvi--b.github.io-00D4FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://aruvi-b.github.io/me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-00D4FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://aruvi-b.github.io/me/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-aruvib-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/aruvib)
-[![Gmail](https://img.shields.io/badge/Gmail-aruvibalamurugan-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aruvibalamurugan@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aruvibalamurugan@gmail.com)
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Aruvi-B&style=for-the-badge&color=00D4FF)
+![](https://img.shields.io/github/followers/Aruvi-B?style=for-the-badge)
+![](https://img.shields.io/github/stars/Aruvi-B?style=for-the-badge)
 
 </div>
 
 ---
 
-## 👋 Who Am I?
+# 👋 About Me
 
-```python
-aruvi = {
-    "role"      : "Research Engineer @ CreamCollar",
-    "domain"    : ["Software-Defined Vehicles", "Embedded Systems", "Automotive AI"],
-    "currently" : "Building AI-powered SDV tools, PoCs & open-source accelerators",
-    "location"  : "Salem, Tamil Nadu, India 🇮🇳",
-    "fun_fact"  : "Automobile Engineer who fell in love with software 🚗💻"
-}
+```yaml
+Name:
+  Aruvi B
+
+Role:
+  Research Engineer
+
+Organization:
+  CreamCollar
+
+Specialization:
+  - Software Defined Vehicles (SDV)
+  - Embedded Systems
+  - Automotive Artificial Intelligence
+  - AUTOSAR
+  - Vehicle Architecture
+
+Current Focus:
+  - AI-powered Engineering Tools
+  - Automotive Product Research
+  - Embedded Linux
+  - OTA Platforms
+  - SDV Toolchains
+  - Agentic AI
+
+Mission:
+  Engineering intelligent software that powers the next generation of vehicles.
+
+Location:
+  Salem, Tamil Nadu, India 🇮🇳
 ```
 
-> I sit at the intersection of **automotive hardware** and **intelligent software** — researching next-gen SDV architectures, building PoCs that push the boundaries of connected vehicles, and making the knowledge accessible through open-source tools and industry workshops.
+> I enjoy building intelligent engineering tools that bridge **automotive electronics**, **embedded software**, and **artificial intelligence**. My work focuses on accelerating Software Defined Vehicle development through automation, research, and open-source innovation.
 
 ---
 
-## 🚀 What I Do
+# 🚗 SDV Engineering Landscape
 
-<table>
-<tr>
-<td width="50%">
+```mermaid
+flowchart LR
 
-**🔬 SDV Research**
-Deep agent-based research on automotive trends, use cases, and engineering approaches for Software-Defined Vehicles.
-
-</td>
-<td width="50%">
-
-**🛠️ Open-Source Tooling**
-Building accelerators and dev tools that make SDV development and learning faster and more accessible.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🤖 AI & Embedded PoCs**
-Hands-on development of SDV + AI proof-of-concepts supporting ER&D teams in adopting new architectures.
-
-</td>
-<td width="50%">
-
-**🎙️ Workshops & Talks**
-Upskilling industry teams on SDV use cases and AI-powered engineering approaches at conferences and internal sessions.
-
-</td>
-</tr>
-</table>
+Vehicle --> Sensors
+Sensors --> ECU
+ECU --> AUTOSAR
+AUTOSAR --> Middleware
+Middleware --> Cloud
+Cloud --> Artificial_Intelligence
+Artificial_Intelligence --> Software_Defined_Vehicle
+```
 
 ---
 
-## 🧰 Tech Stack
+# 🔬 Research Interests
 
-**Embedded & Automotive**
+- Software Defined Vehicles
+- Embedded Systems
+- AUTOSAR Classic Platform
+- Embedded Linux
+- OTA Updates
+- Connected Vehicles
+- Functional Safety
+- AI for Automotive Engineering
+- Vehicle Diagnostics
+- Digital Twin
+- Chassis Intelligence
+- Automotive Cybersecurity
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+---
+
+# 🚀 Current Focus
+
+| Area | Status |
+|------|--------|
+| AI-powered SDV Engineering | 🟢 Active |
+| Product Definition Framework | 🟢 Active |
+| AUTOSAR Automation | 🟢 Active |
+| Automotive Research | 🟢 Active |
+| Embedded Linux | 🟢 Active |
+| Open Source Development | 🟢 Active |
+
+---
+
+# 💼 What I Do
+
+| Research | Engineering |
+|-----------|-------------|
+| Automotive Technology Research | Embedded Software Development |
+| Software Defined Vehicles | AI-powered Engineering Tools |
+| Automotive AI | Cloud Connected ECUs |
+| Product Definition | AUTOSAR Automation |
+| Technology Workshops | Proof of Concepts |
+
+---
+
+# 🛠 Technology Stack
+
+## Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AUTOSAR](https://img.shields.io/badge/AUTOSAR-0078D4?style=flat-square&logoColor=white)
-![CAN](https://img.shields.io/badge/CAN%20%2F%20LIN-FF6600?style=flat-square)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+---
+
+## Embedded Systems
+
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=flat-square)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
+
+---
+
+## Automotive
+
+![AUTOSAR](https://img.shields.io/badge/AUTOSAR-0078D4?style=flat-square)
+![CAN](https://img.shields.io/badge/CAN-FF6A00?style=flat-square)
+![LIN](https://img.shields.io/badge/LIN-FF8C00?style=flat-square)
+![UDS](https://img.shields.io/badge/UDS-4CAF50?style=flat-square)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 
+---
 
-**Tools & Simulation**
+## AI & Cloud
 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![CANoe](https://img.shields.io/badge/Vector%20CANoe-CC0000?style=flat-square)
-![CATIA](https://img.shields.io/badge/CATIA%20v5-005386?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn)
 
 ---
 
-## 📦 Featured Projects
+## Engineering Tools
 
-### ⚙️ [AUTOSAR MCAL Generator](https://github.com/Aruvi-B/AUTOSAR-MCAL-Generator)
-> Auto-generates AUTOSAR MCAL configuration & source code for microcontroller peripherals
-
-- 🔧 Supports **DIO, ADC, CAN, WDG, GPT, SPI** peripherals
-- 📉 Drastically reduces time to develop hardware–software configuration files
-- 🛠️ Built with: `AUTOSAR` `Python` `C` `Device Drivers`
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
+![Vector CANoe](https://img.shields.io/badge/Vector_CANoe-CC0000?style=flat-square)
 
 ---
 
-### ☁️ [Cloud-Connected ESP32 IoT & OTA Platform](https://github.com/Aruvi-B/Nshare)
-> Secure firmware OTA update & telemetry pipeline on AWS IoT Core
+# 🌟 Featured Projects
 
-- 📡 Remote firmware deployment to ESP32 via **AWS IoT Core + Amazon S3**
-- 🔐 Device telemetry transmitted securely via **MQTT over TLS**
-- 🛠️ Built with: `ESP32` `AWS IoT Core` `MQTT` `TLS` `Amazon S3`
+### ⚙️ AUTOSAR MCAL Generator
 
----
+- Automatic AUTOSAR MCAL Configuration Generation
+- Supports DIO, ADC, CAN, GPT, SPI and WDG
+- Python + AUTOSAR + Embedded C
 
-### 🚲 [Cranky — Bicycle Design](https://github.com/Aruvi-B/cranky)
-> Award-winning bicycle design focused on sustainability and urban mobility
-
-- 🏆 Won **Dynamic Performance Award** — SAEINDIA Bicycle Design Challenge 2023
-- 🧱 Structural efficiency and performance-first engineering
-- 🛠️ Built with: `CATIA v5` `CAD` `Structural Analysis`
+🔗 https://github.com/Aruvi-B/AUTOSAR-MCAL-Generator
 
 ---
 
-### 🏥 [CareWay — Smart Healthcare Navigation](https://github.com/Aruvi-B/Careway)
-> Multi-award winning app to navigate patients to the right hospital department
+### 🚲 Cranky Bicycle Design
 
-- 🥇 **1st Prize** — Sona College of Technology Hackathon
-- 🥈 **Runner-Up** — CIT & Bannari Amman Institute
-- 🛠️ Built with: `MIT App Inventor` `Navigation` `Healthcare`
+- SAE INDIA Dynamic Performance Award
+- Sustainable Product Design
+- CATIA Engineering
 
----
-
-### 🤖 [Machine Learning Projects](https://github.com/Aruvi-B/Machine-Learning/)
-> Applied ML models across classification, regression, clustering, and sensor data
-
-- 📊 Covers supervised & unsupervised learning algorithms
-- 🚗 Connects automotive sensor data with intelligent decision-making
-- 🛠️ Built with: `Python` `scikit-learn` `Data Analysis`
+🔗 https://github.com/Aruvi-B/cranky
 
 ---
 
-### 🎨 [CATIA Designs](https://github.com/Aruvi-B/Catia-Design)
-> 3D modeling and CADD design portfolio
+### 🏥 CareWay
 
-- 🖼️ Showcases automotive component modeling and design thinking
-- 🛠️ Built with: `CATIA v5` `AutoCAD` `3D Modeling`
+- Smart Hospital Navigation
+- Multiple Hackathon Winner
+
+🔗 https://github.com/Aruvi-B/Careway
 
 ---
 
-## 📬 Let's Connect
+### 🤖 Machine Learning Projects
+
+- Classification
+- Regression
+- Clustering
+- Automotive Data Analytics
+
+🔗 https://github.com/Aruvi-B/Machine-Learning
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
 | Platform | Link |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/aruvib](https://www.linkedin.com/in/aruvib) |
-| 🌐 Portfolio | [aruvi-b.github.io/me](https://aruvi-b.github.io/me/) |
-| 📊 Kaggle | [kaggle.com/aruvib](https://www.kaggle.com/aruvib) |
-| ✍️ Blog | [autonomousinai.blogspot.com](https://autonomousinai.blogspot.com/2024/08/aruviautonomous.blog.html) |
-| 📸 Instagram | [@\_\_aruvi\_\_4](https://www.instagram.com/__aruvi__4/) |
-| ✉️ Email | [aruvibalamurugan@gmail.com](mailto:aruvibalamurugan@gmail.com) |
+|----------|------|
+| 💼 LinkedIn | https://linkedin.com/in/aruvib |
+| 🌐 Portfolio | https://aruvi-b.github.io/me |
+| 📊 Kaggle | https://kaggle.com/aruvib |
+| 📝 Blog | https://autonomousinai.blogspot.com |
+| 📧 Email | aruvibalamurugan@gmail.com |
 
 </div>
 
@@ -162,8 +224,10 @@ Upskilling industry teams on SDV use cases and AI-powered engineering approaches
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0A0F1E&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00D4FF,50:0047AB,100:0A0F1E"/>
 
-*"Building the intelligence layer of Software-Defined Vehicles — one PoC at a time."*
+### ⭐ Engineering the Future of Software Defined Vehicles ⭐
+
+*"Building intelligent software, advancing automotive research, and creating open-source technologies that shape the next generation of mobility."*
 
 </div>
